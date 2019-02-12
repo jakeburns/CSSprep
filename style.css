@@ -1,0 +1,37 @@
+h1 {
+  border: 5px solid blue;
+  font-family: 'Orbitron', sans-serif;
+  color: #3e7fe8;
+}
+
+p{
+  color: #00FF00;
+}
+
+body{
+  background: #505050;
+}
+
+a{
+  color: red;
+}
+
+table{
+  border: 10px solid black;
+}
+
+ul{
+  color: blue;
+}
+
+ol{
+   color: orange;
+}
+
+h2{
+  background-color: white;
+}
+
+#specialH1{
+  color: red;
+}
